@@ -9,7 +9,7 @@ Portfolio: mobile version
 ## Project Requirements
 
 -Figma design templates include two input fields (for first name and last name) in the desktop version and one input field (for full
-name) in the mobile version
+name) in the mobile version.
 -Use media queries in your CSS file to make your desktop version look like the template you selected.
 -In order to lay out the elements on the page you should use Grid and Flexbox.
 
