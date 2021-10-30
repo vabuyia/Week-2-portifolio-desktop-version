@@ -47,6 +47,7 @@ name) in the mobile version.
 - GitHub: [@githubhandle](https://github.com/vabuyia)
   -Twitter: @abuyiag
   -Linkedln: linkedin.com/in/vincent-abuya-a1940555
+  -facebook.com
 
 ## 🤝 Contributing
 
