@@ -374,6 +374,10 @@ hr {
   max-width: 447px;
 }
 
+.ul-form {
+  list-style: none;
+}
+
 .li-form {
   margin: 10px 24px;
   text-align: left;
